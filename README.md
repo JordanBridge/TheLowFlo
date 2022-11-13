@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheLowFlo, alternatively, just call me Jordan
+- 👋 Hi, I’m @TheLowFlo, alternatively, feel free to call me Jordan!
 - 👀 I’m interested in learning how to code, and am constantly working to improve my proficency in a magnitude of languages!
 - 🌱 I’m currently learning how to use python! 
 - 💞️ I’m looking to collaborate on anything python related!
